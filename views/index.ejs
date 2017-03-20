@@ -2,10 +2,32 @@
 <html>
   <head>
     <title><%= title %></title>
+    <meta charset="UTF-8">
+    <meta name="description" content="API's">
+    <meta name="keywords" content="HTML,CSS,JSON,JavaScript">
+    <meta name="author" content="Wesley Simões">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
   <body>
     <h1><%= title %></h1>
     <p>Welcome to <%= title %></p>
+
+    <h2>API Reference</h2>
+
+    <h4>Cities in the state of Minas Gerais:</h4>
+    <li>https://synapi.herokuapp.com/api/cidades</li>
+
+
+    <h4>List only with the organs</h4>
+    <li>https://synapi.herokuapp.com/api/orgaos</li>
+
+    <h4>List only with units</h4>
+    <li>https://synapi.herokuapp.com/api/unidades</li>
+
+    <h4>List of organs and units:</h4>
+    <li>https://synapi.herokuapp.com/api/orgaoseunidades</li>
+
   </body>
 </html>
