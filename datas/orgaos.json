@@ -1,0 +1,390 @@
+[
+   {
+      "id":1650,
+      "nome":"1650 - SEDPAC -  SEC DE EST DE DIREITOS HUMANOS, PART.SOCIAL E CidA"
+   },
+   {
+      "id":1560,
+      "nome":"1560 - INTEND -  INTENDENCIA DA CidADE ADMINISTRATIVA"
+   },
+   {
+      "id":2450,
+      "nome":"2450 - HidROEX -  FUNDACAO HidROEX"
+   },
+   {
+      "id":1590,
+      "nome":"1590 - SEDVAN -  SEC.DE EST.DE DESENVOLVIMENTO DO NORTE DE MINAS"
+   },
+   {
+      "id":1010,
+      "nome":"1010 - ASSEMBLEIA -  ASSEMBLEIA LEGISLATIVA DO ESTADO DE MINAS GERAIS"
+   },
+   {
+      "id":1020,
+      "nome":"1020 - TC -  TRIBUNAL DE CONTAS DO ESTADO DE MINAS GERAIS"
+   },
+   {
+      "id":1030,
+      "nome":"1030 - TRIBUNAL D -  TRIBUNAL DE JUSTICA DO ESTADO DE MINAS GERAIS"
+   },
+   {
+      "id":1050,
+      "nome":"1050 - TJMMG -  TRIBUNAL DE JUSTICA MILITAR DO ESTADO DE M.G."
+   },
+   {
+      "id":1070,
+      "nome":"1070 - GMG -  GABINETE MILITAR DO GOVERNADOR DO ESTADO DE MG"
+   },
+   {
+      "id":1080,
+      "nome":"1080 - AGE -  ADVOCACIA-GERAL DO ESTADO DE MINAS GERAIS"
+   },
+   {
+      "id":1090,
+      "nome":"1090 - MINISTERIO -  PROCURADORIA GERAL DE JUSTICA"
+   },
+   {
+      "id":1100,
+      "nome":"1100 - OGE -  OUVidORIA GERAL DO ESTADO"
+   },
+   {
+      "id":1110,
+      "nome":"1110 - E.R.G.MG/B -  ESCRIT.REPRES. GOV. M.G EM BRASILIA"
+   },
+   {
+      "id":1140,
+      "nome":"1140 - ESC.REP.GO -  ESCRIT.REPRES.GOV DE M.G NO RIO"
+   },
+   {
+      "id":1160,
+      "nome":"1160 - ESC.REP.GO -  ESCRIT.REPRS.GOV. MG/SP"
+   },
+   {
+      "id":1190,
+      "nome":"1190 - SEF -  SECRETARIA DE ESTADO DA FAZENDA"
+   },
+   {
+      "id":1220,
+      "nome":"1220 - SEDECTES -  SEC. EST. DESENV. ECO. CIENC. TEC. E ENS. SUPERIOR"
+   },
+   {
+      "id":1230,
+      "nome":"1230 - SEAPA -  SECRET. DE ESTADO DE AGRICULTURA, PECUARIA E ABAST"
+   },
+   {
+      "id":1250,
+      "nome":"1250 - PMMG -  POLICIA MILITAR DE MINAS GERAIS"
+   },
+   {
+      "id":1260,
+      "nome":"1260 - SEE -  SECRETARIA DE ESTADO DE EDUCACAO"
+   },
+   {
+      "id":1270,
+      "nome":"1270 - SEC -  SECRETARIA DE ESTADO DA CULTURA"
+   },
+   {
+      "id":1300,
+      "nome":"1300 - SETOP -  SECRET. DE ESTADO DE TRANSPORTES E OBRAS PUBLICAS"
+   },
+   {
+      "id":1320,
+      "nome":"1320 - SES -  SECRETARIA DE ESTADO DA SAUDE"
+   },
+   {
+      "id":1340,
+      "nome":"1340 - CAADE/MG -  COORDENADORIA DE APOIO E ASSIST. PESSOA DEFICIENTE"
+   },
+   {
+      "id":1370,
+      "nome":"1370 - SEMAD -  SECRETARIA ESTADO DE MEIO AMB.DESENV SUSTENTAVEL"
+   },
+   {
+      "id":1400,
+      "nome":"1400 - CBMMG -  CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS"
+   },
+   {
+      "id":1410,
+      "nome":"1410 - SETUR -  SECRETARIA DE ESTADO DE TURISMO"
+   },
+   {
+      "id":1440,
+      "nome":"1440 - DPMG -  DEFENSORIA PUBLICA DO ESTADO DE MINAS GERAIS"
+   },
+   {
+      "id":1450,
+      "nome":"1450 - SEAP -  SECRETARIA DE ESTADO DE ADMINISTRACAO PRISIONAL"
+   },
+   {
+      "id":1460,
+      "nome":"1460 - SEDE -  SECRETARIA DE ESTADO DE DESENVOLVIMENTO ECONOMICO"
+   },
+   {
+      "id":1470,
+      "nome":"1470 - SECIR -  SEC. DE ESTADO DE CidADES E DE INTEGRACAO REGIONAL"
+   },
+   {
+      "id":1480,
+      "nome":"1480 - SEDESE -  SECRETARIA DE ESTADO DE TRABALHO E DESENVOLVIMENTO"
+   },
+   {
+      "id":1490,
+      "nome":"1490 - SEGOV -  SECRETARIA DE ESTADO DE GOVERNO"
+   },
+   {
+      "id":1500,
+      "nome":"1500 - SEPLAG. -  SECRETARIA DE ESTADO DE PLANEJAMENTO E GESTAO"
+   },
+   {
+      "id":1510,
+      "nome":"1510 - PCMG -  POLICIA CIVIL DO ESTADO DE MINAS GERAIS"
+   },
+   {
+      "id":1520,
+      "nome":"1520 - CGE -  CONTROLADORIA GERAL DO ESTADO DE MINAS GERAIS"
+   },
+   {
+      "id":1530,
+      "nome":"1530 - SEEJ -  SECRETARIA DE ESTADO DE ESPORTES E JUVENTUDE"
+   },
+   {
+      "id":1540,
+      "nome":"1540 - ESPMG -  ESCOLA DE SAUDE PUBLICA DE MINAS GERAIS"
+   },
+   {
+      "id":1910,
+      "nome":"1910 - ENCARGOS G -  ENCARGOS GERAIS DA SECRETARIA DE ESTADO DE FAZENDA"
+   },
+   {
+      "id":1940,
+      "nome":"1940 - ENCARGOS G -  EGE-SECRETARIA DE ESTADO DE PLANEJAMENTO E GESTAO"
+   },
+   {
+      "id":2010,
+      "nome":"2010 - IPSEMG -  INST.DE PREVidENCIA DOS SERVidORES DO EST.M.GERAIS"
+   },
+   {
+      "id":2040,
+      "nome":"2040 - LEMG -  LOTERIA DO ESTADO DE MINAS GERAIS"
+   },
+   {
+      "id":2060,
+      "nome":"2060 - FJP -  FUNDACAO JOAO PINHEIRO"
+   },
+   {
+      "id":2070,
+      "nome":"2070 - FAPEMIG -  FUND. DE AMPARO A PESQ. DO ESTADO DE MINAS GERAIS"
+   },
+   {
+      "id":2080,
+      "nome":"2080 - CETEC -  FUNDACAO CENTRO TECNOLOGICO DE MINAS GERAIS"
+   },
+   {
+      "id":2090,
+      "nome":"2090 - FEAM -  FUNDACAO ESTADUAL DO MEIO AMBIENTE"
+   },
+   {
+      "id":2100,
+      "nome":"2100 - IEF -  INSTITUTO ESTADUAL DE FLORESTAS-IEF"
+   },
+   {
+      "id":2110,
+      "nome":"2110 - RURALMINAS -  FUNDACAO RURAL MINEIRA - RURALMINAS"
+   },
+   {
+      "id":2120,
+      "nome":"2120 - IPSM -  INST.PREV.DOS SERV.MILITARES DO ESTADO M.GERAIS"
+   },
+   {
+      "id":2140,
+      "nome":"2140 - DEOP-MG -  DEPARTAMENTO DE OBRAS PUBLICAS DO ESTADO M.GERAIS"
+   },
+   {
+      "id":2150,
+      "nome":"2150 - FHA -  FUNDACAO HELENA ANTIPOFF"
+   },
+   {
+      "id":2160,
+      "nome":"2160 - FUCAM -  FUNDACAO EDUCACIONAL CAIO MARTINS"
+   },
+   {
+      "id":2170,
+      "nome":"2170 - FAOP -  FUNDACAO DE ARTE DE OURO PRETO-FAOP"
+   },
+   {
+      "id":2180,
+      "nome":"2180 - FCS -  FUNDACAO CLOVIS SALGADO"
+   },
+   {
+      "id":2200,
+      "nome":"2200 - IEPHA -  INST. EST. DO PATRIMONIO HIST. E ARTISTICO DE MG"
+   },
+   {
+      "id":2210,
+      "nome":"2210 - TV MINAS -  FUNDACAO TV MINAS CULTURAL E EDUCATIVA"
+   },
+   {
+      "id":2230,
+      "nome":"2230 - ADEMG -  ADMINISTRACAO DE ESTADIOS DE MINAS GERAIS"
+   },
+   {
+      "id":2240,
+      "nome":"2240 - IGAM -  INSTITUTO MINEIRO DE GESTAO DAS AGUAS"
+   },
+   {
+      "id":2250,
+      "nome":"2250 - JUCEMG -  JUNTA COMERCIAL DO ESTADO DE MINAS GERAIS"
+   },
+   {
+      "id":2260,
+      "nome":"2260 - FUNED -  FUNDACAO EZEQUIEL DIAS"
+   },
+   {
+      "id":2270,
+      "nome":"2270 - FHEMIG -  FUNDACAO HOSPITALAR DO ESTADO DE MINAS GERAIS"
+   },
+   {
+      "id":2280,
+      "nome":"2280 - UTRAMIG -  FUNDACAO DE EDUCACAO PARA TRABALHO DE MINAS GERAIS"
+   },
+   {
+      "id":2300,
+      "nome":"2300 - DER/MG -  DEPARTAMENTO DE ESTRADAS DE RODAGEM - MG"
+   },
+   {
+      "id":2310,
+      "nome":"2310 - UNIMONTES -  UNIVERSidADE ESTADUAL DE MONTES CLAROS"
+   },
+   {
+      "id":2320,
+      "nome":"2320 - HEMOMINAS -  FUNDACAO CENTRO DE HEMATOLOGIA E HEMOTERAPIA DE MG"
+   },
+   {
+      "id":2330,
+      "nome":"2330 - IPEM -  INSTITUTO DE METROLOGIA E QUALidADE DE MG"
+   },
+   {
+      "id":2350,
+      "nome":"2350 - UEMG -  UNIVERSidADE DO ESTADO DE MINAS GERAIS"
+   },
+   {
+      "id":2370,
+      "nome":"2370 - IMA -  INSTITUTO MINEIRO DE AGROPECUARIA"
+   },
+   {
+      "id":2380,
+      "nome":"2380 - DETEL -  DEPARTAMENTO ESTADUAL DE TELECOMUNICACOES"
+   },
+   {
+      "id":2390,
+      "nome":"2390 - IMPRENSA O -  IMPRENSA OFICIAL DO ESTADO DE MINAS GERAIS"
+   },
+   {
+      "id":2400,
+      "nome":"2400 - IGTEC -  INSTITUTO DE GEOINFORMACAO E TECNOLOGIA (IGTEC)"
+   },
+   {
+      "id":2410,
+      "nome":"2410 - ITER -  INSTITUTO DE TERRAS DO ESTADO DE MINAS GERAIS"
+   },
+   {
+      "id":2420,
+      "nome":"2420 - idENE -  INSTITUTO DE DESENVIMENT DO NORTE E NORDESTE DE MG"
+   },
+   {
+      "id":3040,
+      "nome":"3040 - EMATER -  EMPRESA DE ASSIST. TECNICA E EXTENSAO RURAL DE MG"
+   },
+   {
+      "id":3050,
+      "nome":"3050 - EPAMIG -  EMPRESA DE PESQUISA AGROPECUARIA DE MINAS GERAIS"
+   },
+   {
+      "id":3150,
+      "nome":"3150 - RI -  RADIO INCONFidENCIA"
+   },
+   {
+      "id":5010,
+      "nome":"5010 - CODEMIG -  COMPANHIA DE DESENVOLVIMENTO ECONOMICO DE MG"
+   },
+   {
+      "id":5070,
+      "nome":"5070 - COHAB/MG -  CIA DE HABITACAO DO ESTADO DE MG LTDA - COHAB"
+   },
+   {
+      "id":5130,
+      "nome":"5130 - INDI -  INSTITUTO DE DESENVOLVIMENTO INTEGRADO DE MG"
+   },
+   {
+      "id":5140,
+      "nome":"5140 - PRODEMGE -  CIA DE TECNOLOGIA DA INFORMACAO DO ESTADO DE MG"
+   },
+   {
+      "id":5200,
+      "nome":"5200 - BDMG -  BANCO DE DESENVOLVIMENTO DE MINAS GERAIS S.A."
+   },
+   {
+      "id":5240,
+      "nome":"5240 - PROMINAS -  COMPANHIA MINEIRA DE PROMOCOES - PROMINAS"
+   },
+   {
+      "id":5330,
+      "nome":"5330 - MGS -  MINAS GERAIS ADMINISTRACAO E SERVICOS S.A. - MGS"
+   },
+   {
+      "id":2430,
+      "nome":"2430 - ADRMBH -  AGENCIA DE DESENVOLVIMENTO DA RMBH"
+   },
+   {
+      "id":2440,
+      "nome":"2440 - ARSAE-MG -  AG. REG. SERV. ABAST. AGUA E ESGOTAMENTO SANITARIO"
+   },
+   {
+      "id":1630,
+      "nome":"1630 - SGG -  SECRETARIA GERAL DA GOVERNADORIA"
+   },
+   {
+      "id":1600,
+      "nome":"1600 - ESCRITORIO -  ESCRITORIO DE PRIORidADES ESTRATEGICAS"
+   },
+   {
+      "id":1580,
+      "nome":"1580 - SETE -  SECRETARIA DE ESTADO DE TRABALHO E EMPREGO"
+   },
+   {
+      "id":1570,
+      "nome":"1570 - SECCRI -  SECRET. EST. CASA CIVIL E RELACOES INSTITUCIONAIS"
+   },
+   {
+      "id":2460,
+      "nome":"2460 - RMVA -  AGENCIA DE DESENVOLVIMENTO DA RMVA"
+   },
+   {
+      "id":1640,
+      "nome":"1640 - SEDA -  SECRETARIA DE ESTADO DE DESENVOLVIMENTO AGRARIO"
+   },
+   {
+      "id":1670,
+      "nome":"1670 - SEESP -  SECRETARIA DE ESTADO DE ESPORTES"
+   },
+   {
+      "id":8010,
+      "nome":"8010 - SERVAS -  SERVICO VOLUNTARIO DE ASSISTENCIA SOCIAL"
+   },
+   {
+      "id":8020,
+      "nome":"8020 - SANTA CASA -  SANTA CASA DE MISERICORDIA DE BELO HORIZONTE"
+   },
+   {
+      "id":5190,
+      "nome":"5190 - MGI -  MGI - MINAS GERAIS PARICIPACOES"
+   },
+   {
+      "id":1690,
+      "nome":"1690 - SESP. -  SECRETARIA DE ESTADO DE SEGURANCA PUBLICA"
+   },
+   {
+      "id":1700,
+      "nome":"1700 - SEEDIF -  SEEDIF"
+   }
+]
